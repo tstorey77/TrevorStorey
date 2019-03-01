@@ -1,0 +1,292 @@
+html,body,section, p, header,footer,div,article,aside{
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+	font-family: Verdana;
+}
+header div > img {
+	position: relative;
+	top: 55px;
+	left: 0px;
+	padding: 0px;
+	margin: 0px;
+	height: 75px;
+	width: 150px;
+}
+
+header div ul{
+	width: 40%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	list-style: none;
+	position: relative;
+	left: 27%;
+	top: 25px;
+	padding: 0px;
+	margin: 0px;
+
+}
+header div li a {
+	padding: 5px;
+	margin: 5px;
+	text-decoration: none;
+	text-align: center;
+	color: #2769f7;
+
+}
+header div li a:focus, header div li a:hover {
+	background-color: lightgrey;
+	margin: 5px;
+}
+
+header div li img {
+	padding: 0px;
+	margin: 0px;
+
+}
+
+header div input, header div button {
+	position: relative;
+	right: -1620px;
+	top: -5px;
+}
+
+body {
+	background: linear-gradient(to bottom, white 97%, lightgrey 100%);
+}
+
+div#head {
+	background-image: url("headerBackground.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 300px;
+	border: 1px solid black;
+	margin: auto;
+	width: 100%;
+	height: 300px;
+
+}
+
+div#head h1{
+	margin-left: 10%;
+	margin-right: 5.5px;
+	margin-bottom: 50px;
+	margin-top: 40px;
+	color: white;
+	font-size: 2.5em;
+	font-family: Helvetica
+	font-weight: lighter;
+}
+
+div#head h4 {
+	margin-right: 30px;
+	margin-bottom: 10px;
+	margin-top: 150px;
+	margin-left: 1450px;
+	color: white;
+	font-family: Helvetica;
+	font-style: italic;
+}
+
+
+
+div#nav ul{
+	width: 100%;
+	list-style: none;
+	text-align: center;
+	position: relative;
+	top: 0px;
+	padding: 0px;
+	margin: 0px;
+	background: linear-gradient(to bottom, #729fff 0%, #2769f7 100%);
+}
+
+div#nav ul li {
+	float: center;
+	margin: 5px;
+	padding: 5px;
+	display: inline-block;
+
+}
+
+div#nav ul li a {
+	padding: 5px;
+	margin: 5px;
+	margin-bottom: 10px;
+	text-decoration: none;
+	text-align: center;
+	font-style: bold;
+	color: white;
+}
+
+div#nav ul li a:hover, div#nav ul li a:focus{
+	background-color: darkblue;
+	color: orange;
+	padding: 5px;
+}
+
+div#nav ul li img {
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+nav#side {
+	border: 1px solid black;
+	margin: left;
+	width: 15%;
+	height: 300px;
+	text-align: left;
+}
+nav#side ul {
+	list-style: none;
+	margin:0px;
+	padding:0px;
+	height: 300px;
+}
+nav#side ul li {
+	background: linear-gradient(to bottom, white 0%, grey 100%);
+}
+nav#side ul li a {
+	display: block;
+	padding: 10px 20px;
+	text-decoration: none;
+	border: 1px solid black;
+	color: black;
+}
+
+nav#side ul li a:hover, nav#side ul li a:focus {
+	background-color: darkgrey;
+	color: white;
+}
+
+p#sideNote {
+	border-top: 2px solid lightgrey;
+	width: 200px;
+	position: relative;
+	top: 250px;
+	color: #b7aeae;
+	padding-right: 30px;
+}
+p#sideNote img {
+	position: relative;
+	top: -105px;
+	left: 150px;
+}
+
+
+section#mainBody h6 {
+	position: relative;
+	left: 320px;
+	top: -490px;
+
+}
+
+section#mainBody h6 a {
+	text-decoration: none;
+	color: #2769f7;
+}
+
+div#main {
+
+}
+
+div#main h3{
+	position:relative;
+	left: 320px;
+	top: -450px;
+	border-bottom: 2px solid lightgrey;
+	width: 75%;
+	
+}
+
+div#main ul {
+	list-style: none;
+	font-weight: bold;
+}
+
+div#main ul li {
+	padding-top: 20px;
+}
+div#paragraph {
+	position: relative;
+	left: 325px;
+	top: -450px;
+}
+
+div#paragraph a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #2769f7;
+}
+div#paragraph p {
+	width: 75%;
+
+}
+
+div#paragraph p:nth-child(3){
+	width: 40%;
+	padding-top: 20px;
+}
+
+div#main fieldset {
+	width: 200px;
+	position: relative;
+	left: 60%;
+	top: -650px;
+}
+
+footer ul{
+	width: 100%;
+	list-style: none;
+	text-align: center;
+	position: relative;
+	font-size: 0.7em;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+
+}
+
+footer ul li {
+	float: center;
+	margin: 5px;
+	padding: 5px;
+	display: inline-block;
+}
+
+footer ul li a {
+	padding: 5px;
+	padding-bottom: 5px;
+	margin: 5px;
+	margin-bottom: 10px;
+	text-decoration: none;
+	text-align: center;
+	font-style: bold;
+	color: #2769f7;
+}
+
+footer ul li a:hover, footer ul li a:focus {
+	background-color: lightgrey;
+	padding: 5px;
+}
+
+footer img {
+	height: 15px;
+}
+footer h6 {
+	text-align: center;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+footer h6:nth-child(3){
+	color: grey;
+}
+
+footer a {
+	text-decoration: none;
+	color: #2769f7;
+}

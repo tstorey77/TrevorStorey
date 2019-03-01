@@ -1,0 +1,25 @@
+body {
+    background-color: lightgrey;
+}
+h1{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+.search{
+    text-align: center;
+}
+ul{
+    display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	list-style: none;
+    padding: 0;
+    border: 2px solid black;
+    background-color: lightblue;
+}
+li{
+    padding-top: 20px;   
+}

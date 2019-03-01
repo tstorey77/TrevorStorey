@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+	<head>
+		<script language="JavaScript" src="headScript.js"></script>
+		<link rel="stylesheet" type="text/css" href="employees.css" />
+		<meta charset="utf-8" />
+		<title>Pay Form</title>
+	</head>
+	<body>
+		<section id="content">
+			<h1>
+				Employee Payroll Entry Form
+			</h1>
+				<form id="payForm">
+					<label for="">Full Name:</label><input type="text" autofocus id="fullName"/><br />
+					<label for="">Hours Worked:</label><input type="text" id="hoursWorked" /><br />
+					<label for="">Hourly Rate:</label><input type="text" id="hourlyRate" />
+					<footer>
+						<button id="calcButton" type="button">Calculate</button>
+						<button id="clearButton"> Clear </button>
+					</footer>
+				</form>
+			<h1>
+				Employee Payroll Summary Report
+			</h1>
+
+			<table id = "employees">
+				<thead>
+					<tr>
+						<th>Employee Name</th>
+						<th>Gross Pay</th>
+						<th>Tax</th>
+						<th>Net Pay</th>
+					</tr>
+				</thead>
+				<tbody id = "list">
+					
+				</tbody>
+			</table>
+		</section>
+	</body>
+</html>
