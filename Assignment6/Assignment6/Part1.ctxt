@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\r\n\ Part1\:\ Takes\ in\ hours\ parked\ and\ calculates\ the\ total\ charge\ spent\r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 6\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ March\ 10,\ 2018\r\n\ \ Last\ updated\:\ March\ 13,\ 2018\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=hours
+comment2.target=double\ getParkingCharge(double)
+comment2.text=\r\n\ \r\n\ \ \r\n\ \ Takes\ the\ hours\ from\ the\ main\ method\ and\ calculates\ the\ total\ cost.\r\n\ \ \r\n\ \ @param\ totalCharge\ holds\ the\ final\ charge\r\n\ \ @param\ MINIMUN_FEE\ the\ absolute\ minimum\ fee\r\n\ \ @param\ PER_HOUR\ the\ charge\ per\ hour\r\n\ \ @param\ MAX_FEE\ the\ absolute\ max\ fee\r\n\ \ @param\ roundedHour\ the\ hour\ rounded\ up\ for\ math\ reasons\r\n\ \ \r\n\ \ @return\ Returns\ the\ total\ charge\ to\ the\ main\ method\ based\ on\ the\ hours\ passed\r\n\ \r\n\ \r\n
+numComments=3

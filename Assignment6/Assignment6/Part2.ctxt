@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\r\n\ \ Part2\:\ Draws\ a\ rectangle\ based\ on\ the\ height\ and\ width\ passed\ \r\n\ \ Part3\:\ uses\ a\ '\#'\ char\ to\ draw\ the\ rectangle\ based\ on\ previous\ height\ and\ width\r\n\ \ Part4\:\ uses\ the\ previous\ height\ to\ draw\ a\ square\ using\ '+'\ chars\r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 6\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ March\ 10,\ 2018\r\n\ \ Last\ updated\:\ March\ 13,\ 2018\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=height\ width
+comment2.target=void\ drawRectangle(int,\ int)
+comment2.text=\r\n\ \r\n\ \ \r\n\ \ Draws\ a\ rectangle\ using\ passed\ height\ and\ width\r\n\ \ \r\n\ \ @param\ counter\ Holds\ the\ current\ number\ of\ rows.\ Used\ to\ keep\ track\r\n\ \ @param\ height\ Holds\ the\ height\ of\ the\ rectangle\ \r\n\ \ @param\ width\ Holds\ the\ width\ of\ the\ rectangle\r\n\ \ \ \r\n\ \r\n
+comment3.params=height\ width\ chosenChar
+comment3.target=void\ drawRectangle(int,\ int,\ char)
+comment3.text=\r\n\ \r\n\ \ \r\n\ \ Draws\ a\ rectangle\ using\ passed\ height\ and\ width\ with\ the\ passed\ char\ \r\n\ \ \r\n\ \ @param\ counter\ Holds\ the\ current\ number\ of\ rows.\ Used\ to\ keep\ track\r\n\ \ @param\ height\ Holds\ the\ height\ of\ the\ rectangle\ \r\n\ \ @param\ width\ Holds\ the\ width\ of\ the\ rectangle\r\n\ \ @param\ chosenChar\ Holds\ the\ passed\ char\ used\ for\ drawing\ the\ rectangle\r\n\ \ \ \r\n\ \r\n
+comment4.params=height
+comment4.target=void\ drawSquare(int)
+comment4.text=\r\n\ \r\n\ \ \r\n\ \ Draws\ a\ square\ using\ passed\ height\ \r\n\ \ \r\n\ \ @param\ counter\ Holds\ the\ current\ number\ of\ rows.\ Used\ to\ keep\ track\r\n\ \ @param\ height\ Holds\ the\ height\ of\ the\ square\r\n\ \ \r\n\ \ \ \r\n\ \r\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CardDecks
+comment0.text=\r\n\ CardDecks\:\ Holds\ the\ shuffle\ and\ shuffle\ by\ number\ methods\ \r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 8\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ April\ 10,\ 2018\r\n\ \ Last\ updated\:\ April\ 10,\ 2018\ \r\n\ \r\n
+comment1.params=
+comment1.target=CardDecks()
+comment1.text=\r\n\ CardDecks\:\ Pointless\ in\ this\ (had\ it\ commented\ before).\ Used\ to\ construct\ the\ CardDecks\ object\r\n\ \r\n
+comment2.params=deck
+comment2.target=void\ shuffle(java.util.ArrayList)
+comment2.text=\r\n\ shuffle\:\ Shuffles\ the\ deck\ of\ cards\ once\ \r\n\ \r\n\ @param\ deck\ Holds\ the\ passed\ arraylist\r\n\ \r\n\ \r\n
+comment3.params=deck\ numberOfShuffles
+comment3.target=void\ shuffle(java.util.ArrayList,\ int)
+comment3.text=\r\n\ shuffle\:\ Shuffles\ the\ deck\ of\ cards\ the\ passed\ number\ of\ times\r\n\ \r\n\ @param\ deck\ Holds\ the\ passed\ arrayList\r\n\ @param\ numberOfShuffles\ Holds\ the\ number\ of\ times\ to\ shuffle\ the\ deck\r\n\ \r\n\ \r\n
+numComments=4

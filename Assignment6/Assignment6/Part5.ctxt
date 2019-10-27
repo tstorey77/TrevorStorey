@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Part5
+comment0.text=\r\n\ \ Part2\:\ Draws\ a\ rectangle\ based\ on\ the\ height\ and\ width\ passed\ \r\n\ \ Part3\:\ uses\ a\ '\#'\ char\ to\ draw\ the\ rectangle\ based\ on\ previous\ height\ and\ width\r\n\ \ Part4\:\ uses\ the\ previous\ height\ to\ draw\ a\ square\ using\ '+'\ chars\r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 6\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ March\ 10,\ 2018\r\n\ \ Last\ updated\:\ March\ 13,\ 2018\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=number
+comment2.target=boolean\ isPrime(int)
+comment2.text=\r\n\ \r\n\ Checks\ the\ passed\ number\ against\ all\ the\ previous\ numbers\ to\ check\ if\ it\ is\ a\ prime\ \r\n\ \r\n\ @param\ checker\ Holds\ true\ or\ false\ depending\ on\ the\ result\ of\ mod\r\n\ @param\ number\ Holds\ the\ passed\ number\ to\ check\ if\ prime\ \r\n\ \r\n\ \r\n\ \r\n\ \r\n\ \r\n\ \r\n
+numComments=3

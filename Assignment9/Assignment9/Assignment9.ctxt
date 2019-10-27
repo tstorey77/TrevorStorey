@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Assignment9
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Assignment9\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=emp
+comment2.target=double\ averageRate(java.util.ArrayList)
+numComments=3

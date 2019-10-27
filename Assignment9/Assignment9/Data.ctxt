@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Data
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Data\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Data()
+comment2.params=filePath
+comment2.target=java.util.ArrayList\ loadEmployeesFromFile(java.lang.String)
+comment3.params=shiftCode
+comment3.target=ShiftType\ getShift(int)
+numComments=4

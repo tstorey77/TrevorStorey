@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\r\n\ \ Employee\:\ Holds\ the\ constructors\ and\ the\ manipulators\ /\ getters\r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 7\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ March\ 27,\ 2018\r\n\ \ Last\ updated\:\ March\ 27,\ 2018\ \r\n\ \r\n
+comment1.params=firstName\ lastName\ monthlySalary
+comment1.target=Employee(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Constructs\ the\ employee\ object\r\n\ \r\n\ @param\ firstName\ holds\ the\ first\ name\r\n\ @param\ lastName\ holds\ the\ last\ name\r\n\ @param\ monthlySalary\ holds\ the\ monthly\ salary\r\n\ \r\n
+comment2.params=monthlySalary
+comment2.target=void\ setMonthlySalary(double)
+comment2.text=\r\n\ Resets\ the\ monthly\ salary\ when\ called\r\n\ \r\n\ @param\ monthlySalary\ passes\ the\ new\ monthly\ salary\ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment3.text=\r\n\ returns\ the\ first\ name\r\n\ \r\n\ @return\ the\ first\ name\ of\ the\ object\ person\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getLastName()
+comment4.text=\r\n\ return\ the\ last\ name\r\n\ \r\n\ @return\ the\ last\ name\ of\ the\ object\ person\r\n\ \r\n
+comment5.params=
+comment5.target=double\ getMonthlySalary()
+comment5.text=\r\n\ returns\ the\ monthly\ salary\r\n\ \r\n\ @return\ the\ monthly\ salary\ of\ the\ object\ person\r\n
+numComments=6

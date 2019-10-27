@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PlayingCard
+comment0.text=\r\n\ PlayingCard\:\ Constructs\ a\ playing\ card.\ Holds\ values\ from\ enum\ with\ the\ suit\ and\ rank\ of\ each\ card.\r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 8\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ April\ 10,\ 2018\r\n\ \ Last\ updated\:\ April\ 10,\ 2018\ \r\n\ \r\n
+comment1.params=suit\ rank
+comment1.target=PlayingCard(Suit,\ Rank)
+comment1.text=\r\n\ PlayingCard\:\ Constructs\ the\ object.\ \r\n\ \r\n\ @param\ suit\ holds\ the\ suit\ of\ the\ card\r\n\ @param\ rank\ holds\ the\ rank\ of\ the\ card\r\n\ \r\n
+comment2.params=suit\ rank\ isFaceUp
+comment2.target=PlayingCard(Suit,\ Rank,\ boolean)
+comment2.text=\r\n\ PlayingCard\:\ Constructs\ the\ object.\ \r\n\ \r\n\ @param\ suit\ holds\ the\ suit\ of\ the\ card\r\n\ @param\ rank\ holds\ the\ rank\ of\ the\ card\r\n\ @isFaceUp\ holds\ if\ the\ card\ is\ faceup\ or\ not\r\n\ \r\n
+comment3.params=
+comment3.target=void\ flip()
+comment3.text=\r\n\ flip\:\ Flips\ the\ playing\ card\ over\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ rankToString()
+comment4.text=\r\n\ rankToString\:\ Takes\ the\ enum\ and\ turns\ the\ rank\ in\ to\ a\ string\ that\ we\ can\ pass\ to\ the\ toString\r\n\ \r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ suitToString()
+comment5.text=\r\n\ suitToString\:\ takes\ in\ the\ enum\ and\ changes\ it\ to\ a\ string\ we\ can\ pass\ to\ the\ toString\ method\ \r\n\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString\:\ Changes\ the\ passed\ values\ to\ make\ a\ complete\ "card"\ \r\n\ \r\n
+numComments=7

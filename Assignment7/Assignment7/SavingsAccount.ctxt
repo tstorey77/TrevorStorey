@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment0.text=\r\n\ SavingsAccount\:\ Constructs\ a\ savings\ account\ with\ access\ to\ the\ balance\ and\ the\ interest\ rate\r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 7\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ March\ 27,\ 2018\r\n\ \ Last\ updated\:\ March\ 27,\ 2018\ \r\n\ \r\n
+comment1.params=balance
+comment1.target=SavingsAccount(double)
+comment1.text=\r\n\ constructs\ the\ savings\ account\ object\ \r\n\ \r\n\ @param\ balance\ the\ balance\ of\ the\ bank\ account\ \r\n\ \r\n
+comment2.params=
+comment2.target=double\ getBalance()
+comment2.text=\r\n\ returns\ the\ balance\ of\ the\ current\ savings\ account\ object\r\n\ \r\n\ @return\ the\ balance\ of\ the\ savings\ account\r\n\ \r\n
+comment3.params=
+comment3.target=double\ getMonthlyInterest()
+comment3.text=\r\n\ calculates\ and\ returns\ the\ monthly\ interest\ on\ the\ savings\ account\r\n\ \r\n\ @param\ annualInterestRate\ the\ static\ interest\ rate\r\n\ @param\ getBalance()\ the\ balance\ of\ the\ svings\ account\r\n\ \r\n\ @return\ this\ returns\ the\ monthly\ interest\ which\ is\ calculated\ in\ the\ method\r\n\ \r\n
+comment4.params=interestRate
+comment4.target=void\ setAnnualInterestRate(double)
+comment4.text=\r\n\ sets\ the\ annual\ interest\ rate.\ Is\ static\ so\ all\ the\ objects\ can\ use\ it\r\n\ \r\n\ @param\ interestRate\ is\ the\ interest\ rate\ for\ the\ savings\ accounts\ \r\n\ \r\n
+numComments=5

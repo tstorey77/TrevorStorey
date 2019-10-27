@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ShiftSupervisor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ShiftSupervisor\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=firstName\ lastName\ id\ shift\ annualSalary
+comment1.target=ShiftSupervisor(java.lang.String,\ java.lang.String,\ java.lang.String,\ ShiftType,\ double)
+comment2.params=firstName\ lastName\ id\ shift
+comment2.target=ShiftSupervisor(java.lang.String,\ java.lang.String,\ java.lang.String,\ ShiftType)
+comment3.params=
+comment3.target=double\ getAnnualSalary()
+comment4.params=annualSalary
+comment4.target=void\ setAnnualSalary(double)
+comment5.params=
+comment5.target=double\ getPay()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

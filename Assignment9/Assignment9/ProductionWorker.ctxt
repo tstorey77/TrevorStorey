@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ProductionWorker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ProductionWorker\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=firstName\ lastName\ id\ shift\ rateOfPay\ hoursWorked
+comment1.target=ProductionWorker(java.lang.String,\ java.lang.String,\ java.lang.String,\ ShiftType,\ double,\ double)
+comment10.params=
+comment10.target=double\ getPay()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=firstName\ lastName\ id\ shift
+comment2.target=ProductionWorker(java.lang.String,\ java.lang.String,\ java.lang.String,\ ShiftType)
+comment3.params=firstName\ lastName\ id
+comment3.target=ProductionWorker(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=double\ getRateOfPay()
+comment5.params=rateOfPay
+comment5.target=void\ setRateOfPay(double)
+comment6.params=
+comment6.target=double\ getHoursWorked()
+comment7.params=hoursWorked
+comment7.target=void\ setHoursWorked(double)
+comment8.params=
+comment8.target=double\ getRegularHoursWorked()
+comment9.params=
+comment9.target=double\ getOvertimeHoursWorked()
+numComments=12

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\r\n\ Part3\:\ Takes\ in\ a\ text\ file\ and\ displays\ if\ its\ 5\ numerical\ digits\ and\ if\ its\ a\ palindrome\r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 5\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ Feb\ 16,\ 2018\r\n\ \ Last\ updated\:\ Feb\ 16,\ 2018\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

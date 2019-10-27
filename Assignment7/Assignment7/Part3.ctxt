@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\r\n\ Part3\:\ Shows\ show\ static\ variables\ can\ be\ used\ for\ every\ object\r\n\ \ \ \ \ \ \ \ Sets\ bank\ accounts\ and\ calculates\ the\ monthly\ interest\ earned\r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 7\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ March\ 27,\ 2018\r\n\ \ Last\ updated\:\ March\ 27,\ 2018\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

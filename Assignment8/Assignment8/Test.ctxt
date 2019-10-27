@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Test\:\ Does\ all\ the\ set\ up\ and\ test\ for\ the\ deck\ of\ cards\r\n\ \r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 8\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ April\ 10,\ 2018\r\n\ \ Last\ updated\:\ April\ 10,\ 2018\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\:\ Makes\ the\ deck.\ Calls\ the\ other\ methods\ from\ there.\ Also\ prints.\r\n\ \r\n\ \r\n
+comment2.params=deckOfCards
+comment2.target=java.lang.String\ printString(java.util.ArrayList)
+comment2.text=\r\n\ printString\:\ Removes\ the\ need\ for\ duplicate\ code\ when\ setting\ up\ the\ print\r\n\ \r\n\ @param\ deckOfCards\ holds\ the\ deck\ ArrayList\r\n\ \r\n
+numComments=3

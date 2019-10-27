@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TeamLeader
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TeamLeader\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=firstName\ lastName\ id\ shift
+comment1.target=TeamLeader(java.lang.String,\ java.lang.String,\ java.lang.String,\ ShiftType)
+comment2.params=firstName\ lastName\ id
+comment2.target=TeamLeader(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=double\ getMonthlyBonus()
+comment4.params=monthlyBonus
+comment4.target=void\ setMonthlyBonus(double)
+comment5.params=
+comment5.target=double\ getPay()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
