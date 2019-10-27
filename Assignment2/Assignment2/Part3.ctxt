@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\r\n\ Part\ 3\:\ Takes\ a\ radius\ value\ and\ calculates\ the\ diameter,\ the\ circumference,\r\n\ \ \ \ \ \ \ \ \ and\ the\ area.\ To\ which\ it\ then\ displays\ using\ a\ printf\r\n\r\n\ @author\ Trevor\ Storey\r\n\ @version\ V_1.0\r\n\ \r\n\ Assignment\:\ 2\r\n\ Course\:\ ADEV-1003\r\n\ Section\:\ 2\r\n\ Date\ Created\:\ January\ 11,\ 2018\r\n\ Last\ Updated\:\ January\ 15,\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Part5
+comment0.text=\r\n\ Part5\:\ String\ manipulation.\ Does\ many\ different\ things\:\r\n\ \ \ \ \ \ \ \ 1)\ changes\ the\ string\ to\ caps\r\n\ \ \ \ \ \ \ \ 2)\ takes\ out\ the\ spaces\ in\ the\ string\r\n\ \ \ \ \ \ \ \ 3)\ Prints\ out\ the\ second\ occurrence\ of\ 'e'\ \r\n\ \ \ \ \ \ \ \ 4)\ prints\ Assiniboine\ River\ using\ river\ from\ the\ string\r\n\ \ \ \ \ \ \ \ 5)\ prints\ I\ attend\ college\ near\ the\ Red\ River\ using\ substrings\ for\ words\r\n\ \ \ \ \ \ \ \ 6)\ prints\ the\ word\ dice\ using\ substrings/manipulates\ the\ string\ for\ caps/lower\r\n\ \ \ \ \ \ \ \ 7)\ prints\ the\ string\ of\ chars\ between\ the\ two\ e's\ inclusively\ plus\ the\ count\r\n\r\n\ @author\ Trevor\ Storey\r\n\ @version\ V_1.0\r\n\ \r\n\ Assignment\:\ 2\r\n\ Course\:\ ADEV-1003\r\n\ Section\:\ 2\r\n\ Date\ Created\:\ January\ 15,\ 2018\r\n\ Last\ Updated\:\ January\ 16,\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

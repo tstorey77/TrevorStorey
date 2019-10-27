@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\r\n\ Part1\:\ calculates\ the\ square\ and\ cube\ of\ the\ input\ number\ plus\ the\ next\ 5\ numbers\r\n\ \ \ \ \ \ \ \ then\ displays\ \r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 3\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ Jan\ 26,\ 2018\r\n\ \ Last\ updated\:\ Jan\ 29,\ 2018\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Part4
+comment0.text=\r\n\ Part4\:\ Takes\ in\ three\ words\ and\ displays\ which\ one\ is\ the\ middle.\ Alphabetically\r\n\ \ \ \ \r\n\ \ \ \ \ \ \ \ \r\n\ \ @author\ Trevor\ Storey\r\n\ \ @version\ V_1.0\r\n\ \ \r\n\ \ Assignment\:\ 4\r\n\ \ Course\:\ ADEV-1003\r\n\ \ Section\:\ 2\r\n\ \ Date\ Created\:\ Feb\ 2,\ 2018\r\n\ \ Last\ updated\:\ Feb\ 2,\ 2018\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
